@@ -1,0 +1,26 @@
+_repo: The-Lost-Naval-Papers_10474
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Copplestone, Bennet
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '3550'
+    url: http://www.gutenberg.org/2009/agents/3550
+description: William Dawson -- Madame Filbert -- To see is to believe -- The captain
+  of marines.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Dawson, William (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Lost Naval Papers
+url: http://www.gutenberg.org/ebooks/10474
